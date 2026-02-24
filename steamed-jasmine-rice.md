@@ -7,12 +7,11 @@
 
 ## Measurements by Weight
 
-| State | Weight |
-|-------|--------|
-| Empty pot | 465 g |
-| Pot + rice | 755 g |
-| Pot + rice + water | 1367 g |
-| **Water added** | **612 g** |
+| State | Weight | Diff |
+|-------|--------|------|
+| Empty pot | 465 g | |
+| Pot + rice | 755 g | 290 g |
+| Pot + rice + water | 1367 g | 612 g|
 
 
 ## Water Level Method
