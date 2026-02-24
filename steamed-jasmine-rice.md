@@ -37,5 +37,5 @@ Fill water to the **2.25 mark** on the pot (with rice already in).
 ## Notes
 
 - Thai Hom Mali = Thai Jasmine rice
-- Water ratio by volume: approximately 1.5 cups water per cup rice
+- Water ratio by volume: approximately 1.3 cups water per cup rice
 - Water ratio by weight: approximately 2.1 g water per g rice (612 g water for 290 g rice)
