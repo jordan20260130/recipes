@@ -23,12 +23,3 @@ echo "## Stats"
 echo "- Recipes: $(ls -1 *.md 2>/dev/null | wc -l)"
 echo "- Last commit: $(git log -1 --format='%h %s' 2>/dev/null)"
 echo ""
-
-echo "## Food Safety Focus"
-echo "Recipes in this collection include food safety notes where relevant."
-echo "For pickling safety, see: https://www.healthycanning.com/50-50-rule-pickling/"
-echo ""
-
-echo "## Commands"
-echo "- \`./ctx\` — show this context"
-echo "- \`git log --oneline\` — view recipe history"
