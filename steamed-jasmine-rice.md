@@ -26,3 +26,7 @@ Fill water to the **2.25 mark** on the pot (with rice already in).
 - Water ratio by weight: approximately 2.11 g water per g rice (612 g water for 290 g rice)
 - Press the power button, then hit the "white rice" button
 - Finished in 33 minutes
+
+## Food Safety
+
+**Room temperature limit: 2 hours max.** Rice can harbor *Bacillus cereus*, a spore-forming bacterium that survives cooking. The toxins it produces are **odorless and tasteless** — spoiled rice will not smell or taste off. Refrigerate within 2 hours (1 hour if it's hot). Reheat to 165°F throughout.
