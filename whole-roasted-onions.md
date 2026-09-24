@@ -2,8 +2,10 @@
 
 *Reconstructed from memory, 2026-09-24. 朴 remembered a very simple
 method: one sweet onion, unpeeled and uncut, roasted whole, then salted
-(maybe buttered). The temperature and time were the lost bits — the
-values below are a standard whole-onion roast and a good starting point.*
+(maybe buttered). The temperature and time were the lost bits; the
+timing was checked against real-world references the same day. 朴's own
+ideal runs **60–75 minutes**, and since he reaches for large-ish sweet
+onions, that's the range this recipe now leads with.*
 
 ## Ingredients
 
@@ -12,9 +14,11 @@ values below are a standard whole-onion roast and a good starting point.*
 - Coarse or flaky salt
 - Optional: 1 tsp butter, olive oil, black pepper, a sprig of thyme
 
-Notes on the onion: sweet varieties are the point here. They carry more
-sugar and less sulfur, so they go soft and jammy. A storage/yellow onion
-works but stays sharper and more savory.
+Notes on the onion: sweet varieties are the point here — and
+**Vidalia / Walla Walla / Maui are 朴's favorite kind**, the ones this
+recipe is tuned around. They carry more sugar and less sulfur, so they
+go soft and jammy. A storage/yellow onion works but stays sharper and
+more savory.
 
 ## Method
 
@@ -25,9 +29,10 @@ works but stays sharper and more savory.
 3. Set it on a small sheet of foil, or in a small ovenproof dish /
    ramekin on a baking sheet. (The skin will blacken and may drip a
    little.)
-4. Roast **45–60 minutes** for a medium onion, up to **~75 minutes** for
-   a large one. Oven range that all works: 375–425°F; lower = gentler and
-   sweeter, higher = more char.
+4. Roast **60–75 minutes** — the working range for the large-ish sweet
+   onions 朴 favors. (A medium onion can be done in ~45–60 minutes; a
+   large one can run to ~75.) Oven range that all works: 375–425°F;
+   lower = gentler and sweeter, higher = more char.
    - **Done when:** the skin is dark, papery, and blistered, and the
      onion yields completely when you press it — soft like a baked
      potato. A skewer should slide through with no resistance.
